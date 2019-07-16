@@ -8,7 +8,7 @@ Presenters: please follow the [contribution guidelines](CONTRIBUTING.md) to subm
 
 **LEAPing Forward: A tour through an open-source evolutionary algorithm toolkit** by Mark Coletti. [PDF](2019/leap-evolutionary-algorithm.pdf), [URL](https://goo.gl/Z6312P)
 
-**Open Source Extravaganza: PySolr and DependencyCheck** by [Dale Visser](https://github.com/dwvisser). [PDF](2019/dwvisser-OpenSource-Extravaganza.pdf)
+**Open Source Extravaganza: PySolr and DependencyCheck** by Dale Visser. [GitHub](https://github.com/dwvisser), [PDF](2019/opensource-pysolr-depcheck.pdf)
 
 ## 2018
 
