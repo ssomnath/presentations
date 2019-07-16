@@ -6,7 +6,7 @@ Presenters: please follow the [contribution guidelines](CONTRIBUTING.md) to subm
 
 ## 2019
 
-**LEAPing Forward: A tour through an open-source evolutionary algorithm toolkit** by Mark Coletti. [PDF](2019/LEAP.pdf)
+**LEAPing Forward: A tour through an open-source evolutionary algorithm toolkit** by Mark Coletti. [PDF](2019/leap-evolutionary-algorithm.pdf), [URL](https://goo.gl/Z6312P)
 
 ## 2018
 
